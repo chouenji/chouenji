@@ -14,7 +14,7 @@
 <br>
 
 
-- 🔭 I’m currently working on [Pet Prodigy](https://github.com/CTP-team-meeter/pet-prodigy)
+- 🔭 I’m currently working on [FriendFinder](https://github.com/chouenji/FriendFinder)
 
 - 👨‍💻 All of my projects are available at [https://chouenji.github.io](https://chouenji.github.io)
 
