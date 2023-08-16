@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [FriendFinder](https://github.com/chouenji/FriendFinder)
 
-- 👨‍💻 All of my projects are available at [https://chouenji.github.io](https://chouenji.github.io)
+- 👨‍💻 All of my projects are available at [https://chouenji.netlify.app](https://chouenji.netlify.app)
 
 - 📫 How to reach me **kevin.docanto11229@gmail.com**
 
