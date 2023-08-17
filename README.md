@@ -4,10 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <br>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chouenji&label=Profile%20views&color=0e75b6&style=flat" alt="chouenji" /> </p>
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chouenji&theme=onedark&row=2&column=3" alt="chouenji" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chouenji&theme=onedark&row=1&column=3" alt="chouenji" /></a> </p>
 
 <br>
 
