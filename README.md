@@ -8,12 +8,7 @@
 
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chouenji&theme=onedark&row=1&column=3" alt="chouenji" /></a> </p>
-
-<br>
-
-<div align=center>
+<p align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chouenji&layout=compact"/>
-</div>  
-<br>
-<br>
+</p>
 <div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chouenji&" alt="chouenji" /></p></div>
