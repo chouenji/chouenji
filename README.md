@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kevin 👋</h1>
 
-- 🔭 I’m currently working on [FriendFinder](https://github.com/chouenji/FriendFinder) and [Gesso Casa Decorada](https://gesso-casa-decorada.vercel.app)
+- 🔭 I’m currently working on [FriendFinder](https://github.com/chouenji/FriendFinder) and [Gesso Casa Decorada](https://github.com/chouenji/gesso-casa-decorada)
 
 - 👨‍💻 My best projects are available at [https://chouenji.netlify.app](https://chouenji.netlify.app)
 
